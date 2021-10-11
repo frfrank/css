@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: #383b3f;
+  color: #fff;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+}
+ul li {
+  background: #327ee0;
+  color: #fff;
+  text-decoration: none;
+  list-style: none;
+  padding: 1rem;
+  width: 100%;
+  cursor: pointer;
+}
+ul li ::hover {
+  background: orange;
+}
+
+/*# sourceMappingURL=main.css.map */
